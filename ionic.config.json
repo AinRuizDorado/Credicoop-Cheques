@@ -1,0 +1,7 @@
+{
+  "name": "Credicoop-Cheques",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
